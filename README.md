@@ -1,6 +1,7 @@
 # Gerenciador de Arquivos e Engine de Armazenamento (C)
 
 Este repositório contém a implementação em C de uma engine de armazenamento de baixo nível, desenvolvida para simular o funcionamento interno de um sistema de gerenciamento de dados relacional (SGBD). O projeto aplica algoritmos e estruturas de dados avançadas para a manipulação direta e eficiente de arquivos binários em disco.
+Onde cada pasta é uma parte do trabalho. A pasta Trabalho_01 é o início, a Trabalho_02 complementa com novas funcionalidades, e a Trabalho_03 usa árvore B.
 
 ---
 
